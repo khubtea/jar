@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 04 18:29:11 SGT 2022
+spring-cloud-starter-netflix-hystrix-2.2.3.RELEASE.jar>central=
+spring-cloud-starter-netflix-hystrix-2.2.3.RELEASE-javadoc.jar>central=
+spring-cloud-starter-netflix-hystrix-2.2.3.RELEASE.pom>central=
